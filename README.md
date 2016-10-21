@@ -2,7 +2,7 @@
 
 Good morning
 
-Tweets Twoots and Twents
+Tweets Twoots
 
 
 reiterate by removing twents
